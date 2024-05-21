@@ -33,6 +33,7 @@ header {
 
 header h1 {
     font-size: 1.5rem;
+    color: #ff0066;
 }
 
 main{
@@ -66,10 +67,8 @@ button:hover {
     font-weight: bold;
 }
 
-footer {
+img {
+    width: 120px;
     display: flex;
     justify-content: center;
-    align-items: center;
-    height: 6rem;
-    border-top: 1px solid #00000094;
 }
